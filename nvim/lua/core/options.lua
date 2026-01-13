@@ -29,7 +29,7 @@ opt.signcolumn = "number" -- affiche une colonne en plus à gauche pour afficher
 opt.backspace = "indent,eol,start" -- on autorise l'utilisation de retour quand on indente, à la fin de ligne ou au début
 
 -- presse papier
-opt.clipboard = "unnamedplus" -- on utilise le presse papier du système par défaut
+-- opt.clipboard = "" -- on utilise le presse papier du système par défaut
 
 -- split des fenêtres
 opt.splitright = true -- le split vertical d'une fenêtre s'affiche à droite
